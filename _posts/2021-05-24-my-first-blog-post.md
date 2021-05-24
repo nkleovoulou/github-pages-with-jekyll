@@ -1,1 +1,3 @@
-Welcome to the Current Affairs Blog
+---
+title: Current Affairs Blog
+date: 2021-05-2021
